@@ -16,7 +16,7 @@
             return;
         }
         const buttons = document.querySelectorAll('button');
-        const nextButton = buttons[i];
+        const nextButton = buttons[i];   // If You want to unfollow from the oldest followed = const nextButton = buttons[buttons-i];
         nextButton.click();
         document.querySelector('button.aOOlW.-Cab_').click()    // This line confirms that you want to unfollow an account
         i += 1;

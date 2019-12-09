@@ -18,6 +18,6 @@ Very basic instructions to make sure everyone can use this:
 
 5: Now if you want to unfollow people go to your account, select your 'Following' list and run the code.
 
-6: If you want to follow people we need a list of people. You can go the 'Likes' on a picture or 'Followers' of another account. Select the list and run the code.
+6: If you want to follow people we need a list of people. You can go the 'Likes' on a picture or 'Followers' of another account. Once you are there run the code.
 
 Important! > Play around with the numbers but don't be greedy; Instagram doesn't support the use of automation actions.

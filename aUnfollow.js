@@ -1,6 +1,6 @@
 // Unfollow Ig Accounts
 
-(() => {
+{
 //This getRandomInt function will generate a random pause between performing each action.
 	function getRandomInt(min, max) {
   min = Math.ceil(min);
@@ -22,7 +22,7 @@
         i += 1;
     }, getRandomInt(45000,60000))
     // Here at the end ^^^^^^ we have the random miliseconds pause between each action. You can also play with those numbers
-})()
+}
 
 
 //  Do not let this running all day. Instagram knows you have to sleep at some point. 

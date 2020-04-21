@@ -20,7 +20,7 @@
         nextButton.click();
         document.querySelector('button.aOOlW.-Cab_').click()    // This line confirms that you want to unfollow an account
         i += 1;
-    }, getRandomInt(45000,60000))
+    }, getRandomInt(65000,75000))
     // Here at the end ^^^^^^ we have the random miliseconds pause between each action. You can also play with those numbers
 })()
 
